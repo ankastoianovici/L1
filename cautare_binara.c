@@ -7,7 +7,7 @@ int main()
 	scanf("%d", &n);
 	printf("Dati elementele\n");
 	for (i = 0; i < n; i++)
-		scanf("%d", &v[i]);
+		scanf("%d", v[i]);
 	printf("x=");
 	scanf("%d", &x);
 	st = 0;
